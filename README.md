@@ -7,7 +7,7 @@ Analyses including Seurat cell cluster analysis, marker gene finding, and Cluste
 ## LRanalysis
 Ligand-receptor analysis for paracrine cell-cell communcation.
 ## Data availability
-[raw sequencing data](https://ngdc.cncb.ac.cn/gsa/browe/CRA003925)
+[raw sequencing data](https://ngdc.cncb.ac.cn/gsa/browse/CRA003925)
 
 [cellranger matrix files](https://figshare.com/articles/dataset/filtered_feature_bc_matrix_zip/19582615)
 ## Citation:
